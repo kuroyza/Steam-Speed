@@ -7,15 +7,15 @@
   "games": [
     {
       "targetImage": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
-      "targetURL": "https://play.google.com/store/apps/details?id=auto.life.traffic.rider.pro",
+      "targetLink": "https://play.google.com/store/apps/details?id=auto.life.traffic.rider.pro",
       "targetPackage": "auto.life.traffic.rider.pro"
     }
   ],
   "apps": [
     {
-      "image": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
-      "url": "https://play.google.com/store/apps/details?id=pomni.amazingDigitalCircus.jax.FakeCall",
-      "package": "pomni.amazingDigitalCircus.jax.FakeCall"
+      "targetImage": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
+      "targetLink": "https://play.google.com/store/apps/details?id=pomni.amazingDigitalCircus.jax.FakeCall",
+      "targetPackage": "pomni.amazingDigitalCircus.jax.FakeCall"
     }
   ]
   ,
