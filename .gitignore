@@ -15,7 +15,6 @@ node_modules/
 img/
 res/
 old_code/
-*.json
 *.csv
 */test.php
 

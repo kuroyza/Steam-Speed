@@ -1,0 +1,25 @@
+{
+  "store": {
+    "name": "",
+    "url": "https://play.google.com/store/apps/developer?id=Steam+Speed",
+    "logo": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png"
+  },
+  "games": [
+    {
+      "targetImage": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
+      "targetURL": "https://play.google.com/store/apps/details?id=auto.life.traffic.rider.pro",
+      "targetPackage": "auto.life.traffic.rider.pro"
+    }
+  ],
+  "apps": [
+    {
+      "image": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
+      "url": "https://play.google.com/store/apps/details?id=pomni.amazingDigitalCircus.jax.FakeCall",
+      "package": "pomni.amazingDigitalCircus.jax.FakeCall"
+    }
+  ]
+  ,
+  "gameStatus": "ON",
+  "appStatus": "ON",
+  "trafficType": 1
+}
