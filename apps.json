@@ -1,21 +1,8 @@
 {
-  "apps": [
-    {
-      "targetImage": "https://i.ibb.co/zJW496J/icon.jpg",
-      "targetLink": "https://play.google.com/store/apps/details?id=pomni.amazingDigitalCircus.jax.FakeCall",
-      "targetPackage": "pomni.amazingDigitalCircus.jax.FakeCall"
-    },{
-      "targetImage": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
-      "targetLink": "https://play.google.com/store/apps/details?id=auto.life.traffic.rider.pro",
-      "targetPackage": "auto.life.traffic.rider.pro"
-    },{
+  "apps": [{
       "targetImage": "https://i.ibb.co/8MVVk3s/brands-logo-quiz.png",
       "targetLink": "https://play.google.com/store/apps/details?id=car.logo.quiz.games.forbrands",
       "targetPackage": "car.logo.quiz.games.forbrands"
-    },{
-      "targetImage": "https://i.ibb.co/jwH2BTs/steam-speed-icon.png",
-      "targetLink": "https://play.google.com/store/apps/details?id=car.logo.quiz.games.forbrands2",
-      "targetPackage": "car.logo.quiz.games.forbrands2"
     }
   ]
 }

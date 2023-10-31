@@ -1,9 +1,4 @@
 {
-  "store": {
-    "name": "Steam Speed",
-    "url": "https://play.google.com/store/apps/developer?id=Steam+Speed",
-    "logo": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png"
-  },
   "games": [
     {
       "targetImage": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
@@ -11,8 +6,4 @@
       "targetPackage": "auto.life.traffic.rider.pro"
     }
   ]
-  ,
-  "status": false,
-  "storeStatus": false,
-  "trafficType": 1
 }
