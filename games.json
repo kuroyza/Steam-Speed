@@ -10,17 +10,9 @@
       "targetLink": "https://play.google.com/store/apps/details?id=auto.life.traffic.rider.pro",
       "targetPackage": "auto.life.traffic.rider.pro"
     }
-  ],
-  "apps": [
-    {
-      "targetImage": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
-      "targetLink": "https://play.google.com/store/apps/details?id=car.logo.quiz.games.forbrands",
-      "targetPackage": "car.logo.quiz.games.forbrands"
-    }
   ]
   ,
-  "gameStatus": false,
-  "appStatus": "ON",
+  "status": false,
   "storeStatus": false,
   "trafficType": 1
 }
