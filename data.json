@@ -1,6 +1,6 @@
 {
   "store": {
-    "name": "",
+    "name": "Steam Speed",
     "url": "https://play.google.com/store/apps/developer?id=Steam+Speed",
     "logo": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png"
   },
@@ -14,12 +14,13 @@
   "apps": [
     {
       "targetImage": "https://i.ibb.co/rwdSPMJ/tractor-game-icon.png",
-      "targetLink": "https://play.google.com/store/apps/details?id=pomni.amazingDigitalCircus.jax.FakeCall",
-      "targetPackage": "pomni.amazingDigitalCircus.jax.FakeCall"
+      "targetLink": "https://play.google.com/store/apps/details?id=car.logo.quiz.games.forbrands",
+      "targetPackage": "car.logo.quiz.games.forbrands"
     }
   ]
   ,
-  "gameStatus": "ON",
+  "gameStatus": false,
   "appStatus": "ON",
+  "storeStatus": false,
   "trafficType": 1
 }
