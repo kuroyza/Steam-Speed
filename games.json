@@ -1,6 +1,16 @@
 {
   "games": [
     {
+    "targetImage": "https://kuroyza.github.io/Steam-Speed/Assets/imgs/pomni.amazingDigitalCircus.jax.FakeCall.png",
+    "targetLink": "https://play.google.com/store/apps/details?id=pomni.amazingDigitalCircus.jax.FakeCall",
+    "targetPackage": "pomni.amazingDigitalCircus.jax.FakeCall"
+    },
+    {
+      "targetImage": "https://kuroyza.github.io/Steam-Speed/Assets/imgs/com.steamspeed.mod.dinosaurs.minecraft.mods.png",
+      "targetLink": "https://play.google.com/store/apps/details?id=com.steamspeed.mod.dinosaurs.minecraft.mods",
+      "targetPackage": "com.steamspeed.mod.dinosaurs.minecraft.mods"
+    },
+    {
       "targetImage": "https://kuroyza.github.io/Steam-Speed/Assets/imgs/auto.life.traffic.rider.pro.png",
       "targetLink": "https://play.google.com/store/apps/details?id=auto.life.traffic.rider.pro",
       "targetPackage": "auto.life.traffic.rider.pro"
