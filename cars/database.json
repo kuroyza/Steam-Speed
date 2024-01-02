@@ -1,456 +1,428 @@
 {
-  "companies":[
+  "companies": [
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/abarth.png",
-      "name": "Abarth"
+      "name": "abarth",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/abarth.png"
     },
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/ac-cars.png",
-      "name": "AC"
+      "name": "ac cars",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/ac-cars.png"
     },
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/acura.png",
-      "name": "Acura"
+      "name": "acura",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/acura.png"
     },
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/aixam.png",
-      "name": "Aixam"
+      "name": "aixam",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/aixam.png"
     },
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/alfa_romeo.png",
-      "name": "Alfa Romeo"
+      "name": "alfa romeo",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/alfa_romeo.png"
     },
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/ariel.png",
-      "name": "Ariel"
+      "name": "ariel",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/ariel.png"
     },
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/aston_martin.png",
-      "name": "Aston Martin"
+      "name": "aston martin",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/aston_martin.png"
     },
     {
-      "logo": "https://car-logos.org/wp-content/uploads/2022/08/audi.png",
-      "name": "Audi"
+      "name": "audi",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/audi.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/bentley.png",
-      "name": "Bentley"
+      "name": "bentley",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/bentley.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/bmw.png",
-      "name": "BMW"
+      "name": "bmw",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/bmw.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/bugatti.png",
-      "name": "Bugatti"
+      "name": "bugatti",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/bugatti.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/buick.png",
-      "name": "Buick"
+      "name": "buick",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/buick.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/cadillac.png",
-      "name": "Cadillac"
+      "name": "cadillac",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/cadillac.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/caterham.png",
-      "name": "Caterham"
+      "name": "caterham",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/caterham.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/chevrolet.png",
-      "name": "Chevrolet"
+      "name": "chevrolet",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/chevrolet.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/chrysler.png",
-      "name": "Chrysler"
+      "name": "chrysler",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/chrysler.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/citroen.png",
-      "name": "Citroën"
+      "name": "citroen",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/citroen.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/corvette.png",
-      "name": "Corvette"
+      "name": "corvette",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/corvette.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/dacia.png",
-      "name": "Dacia"
+      "name": "dacia",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/dacia.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/daf.png",
-      "name": "Daf"
+      "name": "daewoo",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/daewoo.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/daihat.png",
-      "name": "Daihatsu"
+      "name": "daf",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/daf.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/dodge.png",
-      "name": "Dodge"
+      "name": "daihat",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/daihat.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/10/drmotor.png",
-      "name": "DR Motor"
+      "name": "dodge",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/dodge.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/elfin.png",
-      "name": "Elfin"
+      "name": "elfin",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/elfin.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/ferrari.png",
-      "name": "Ferrari"
+      "name": "ferrari",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/ferrari.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/fiat.png",
-      "name": "Fiat"
+      "name": "fiat",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/fiat.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/ford.png",
-      "name": "Ford"
+      "name": "ford",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/ford.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/gaz.png",
-      "name": "Gaz"
+      "name": "gaz",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/gaz.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/geely.png",
-      "name": "Geely"
+      "name": "geely",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/geely.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/gillet.png",
-      "name": "Gillet"
+      "name": "gillet",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/gillet.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/ginetta.png",
-      "name": "Ginetta"
+      "name": "ginetta",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/ginetta.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/gm.png",
-      "name": "General Motors"
+      "name": "gm",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/gm.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/gmc.png",
-      "name": "GMC"
+      "name": "gmc",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/gmc.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2013/10/Great-Wall.png",
-      "name": "Great Wall"
+      "name": "gumpert",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/gumpert.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/gumpert.png",
-      "name": "Gumpert"
+      "name": "honda",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/honda.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/10/hennessey.png",
-      "name": "Hennessey logo"
+      "name": "hummer",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/hummer.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/10/holden.png",
-      "name": "Holden"
+      "name": "hyundai",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/hyundai.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/honda.png",
-      "name": "Honda"
+      "name": "inf",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/inf.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/hummer.png",
-      "name": "Hummer"
+      "name": "isuzu",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/isuzu.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/hyundai.png",
-      "name": "Hyundai"
+      "name": "jagu",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/jagu.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/inf.png",
-      "name": "Infiniti"
+      "name": "jeep",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/jeep.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/isuzu.png",
-      "name": "Isuzu"
+      "name": "joss",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/joss.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/jagu.png",
-      "name": "Jaguar"
+      "name": "kia",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/kia.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/jeep.png",
-      "name": "Jeep"
+      "name": "koenigsegg",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/koenigsegg.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/joss.png",
-      "name": "Joss"
+      "name": "lada",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/lada.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/kia.png",
-      "name": "Kia"
+      "name": "lamb",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/lamb.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/koenigsegg.png",
-      "name": "Koenigsegg"
+      "name": "lancia",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/lancia.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/lada.png",
-      "name": "Lada"
+      "name": "land rover",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/land-rover.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/lamb.png",
-      "name": "Lamborghini"
+      "name": "lexus",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/lexus.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/lancia.png",
-      "name": "Lancia"
+      "name": "linc",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/linc.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/land-rover.png",
-      "name": "Land Rover"
+      "name": "lotus",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/lotus.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/lexus.png",
-      "name": "Lexus"
+      "name": "marchedrs",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/marchedrs.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/linc.png",
-      "name": "Lincoln"
+      "name": "mase",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mase.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/lotus.png",
-      "name": "Lotus"
+      "name": "maybach",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/maybach.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/11/luxgen-logo.png",
-      "name": "Luxgen"
+      "name": "mazda",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mazda.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/11/mahindra.png",
-      "name": "Mahindra"
+      "name": "mclaren",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mclaren.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/12/Maruti_Suzuki.png",
-      "name": "Maruti Suzuki"
+      "name": "mg",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mg.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/mase.png",
-      "name": "Maserati"
+      "name": "mini",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mini.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/maybach.png",
-      "name": "Maybach"
+      "name": "mitub",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mitub.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/mazda.png",
-      "name": "Mazda"
+      "name": "morgan",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/morgan.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/mclaren.png",
-      "name": "Mclaren"
+      "name": "mosler",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mosler.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/marchedrs.png",
-      "name": "Mercedes"
+      "name": "mustang",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/mustang.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/mg.png",
-      "name": "MG"
+      "name": "nissan",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/nissan.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/mini.png",
-      "name": "Mini"
+      "name": "noble",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/noble.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/mitub.png",
-      "name": "Mitsubishi"
+      "name": "opel",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/opel.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/morgan.png",
-      "name": "Morgan Motor"
+      "name": "pagani",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/pagani.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/mustang.png",
-      "name": "Mustang logo"
+      "name": "panoz",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/panoz.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/nissan.png",
-      "name": "Nissan"
+      "name": "perodua",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/perodua.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/noble.png",
-      "name": "Noble"
+      "name": "peug",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/peug.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/opel.png",
-      "name": "Opel"
+      "name": "piaggio",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/piaggio.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/pagani.png",
-      "name": "Pagani"
+      "name": "pininfarina",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/pininfarina.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/panoz.png",
-      "name": "Panoz"
+      "name": "porsche",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/porsche.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/perodua.png",
-      "name": "Perodua"
+      "name": "proton",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/proton.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/peug.png",
-      "name": "Peugeot"
+      "name": "renault",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/renault.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/piaggio.png",
-      "name": "Piaggio"
+      "name": "reva",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/reva.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/pininfarina.png",
-      "name": "Pininfarina"
+      "name": "rolls royce",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/rolls-royce.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/porsche.png",
-      "name": "Porsche"
+      "name": "ruf",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/ruf.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/proton.png",
-      "name": "Proton"
+      "name": "saab",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/saab.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/renault.png",
-      "name": "Renault"
+      "name": "scania",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/scania.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/reva.png",
-      "name": "Reva"
+      "name": "scion",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/scion.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2012/01/rimac-150x150.png",
-      "name": "Rimac"
+      "name": "seat",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/seat.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/rolls-royce.png",
-      "name": "Rolls Royce"
+      "name": "skoda",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/skoda.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/ruf.png",
-      "name": "Ruf logo"
+      "name": "smart",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/smart.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/saab.png",
-      "name": "Saab"
+      "name": "spyker",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/spyker.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/scania.png",
-      "name": "Scania"
+      "name": "ssangyong",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/ssangyong.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/scion.png",
-      "name": "Scion"
+      "name": "subaru",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/subaru.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/seat.png",
-      "name": "Seat"
+      "name": "suzuki",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/suzuki.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/10/shelby.png",
-      "name": "Shelby"
+      "name": "tata",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/tata.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/skoda.png",
-      "name": "Skoda"
+      "name": "tatra",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/tatra.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/smart.png",
-      "name": "Smart"
+      "name": "tesla",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/tesla.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/spyker.png",
-      "name": "Spyker"
+      "name": "think",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/think.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/ssangyong.png",
-      "name": "Ssangyong"
+      "name": "toyota",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/toyota.png"
+    },{
+      "name": "tramontana",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/1176359_187686584745478_1792749640_n.jpg"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/10/ssc.png",
-      "name": "SSC"
+      "name": "troller",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/troller.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/subaru.png",
-      "name": "Subaru"
+      "name": "tvr",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/tvr.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/suzuki.png",
-      "name": "Suzuki"
+      "name": "uaz",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/uaz.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/tata.png",
-      "name": "Tata"
+      "name": "vandenbrink design",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/vandenbrink_design.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/tatra.png",
-      "name": "Tatra"
+      "name": "vauxhall",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/vauxhall.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/tesla.png",
-      "name": "Tesla"
+      "name": "vector motors",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/vector_motors.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/toyota.png",
-      "name": "Toyota"
+      "name": "venturi",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/venturi.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/1176359_187686584745478_1792749640_n.jpg",
-      "name": "Tramontana"
+      "name": "volkswagen",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/volkswagen.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/troller.png",
-      "name": "Troller"
+      "name": "volvo",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/volvo.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/tvr.png",
-      "name": "TVR"
+      "name": "wiesmann",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/wiesmann.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/uaz.png",
-      "name": "UAZ"
+      "name": "zagato",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/zagato.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/vandenbrink_design.png",
-      "name": "Vandenbrink"
+      "name": "zaz",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/zaz.png"
     },
     {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/vauxhall.png",
-      "name": "Vauxhall"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/vector_motors.png",
-      "name": "Vector Motors"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/venturi.png",
-      "name": "Venturi"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/volkswagen.png",
-      "name": "Volkswagen"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/volvo.png",
-      "name": "Volvo"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/wiesmann.png",
-      "name": "Wiesmann"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/zagato.png",
-      "name": "Zagato"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/zaz.png",
-      "name": "Zaz"
-    },
-    {
-      "logo": "https://www.car-logos.org/wp-content/uploads/2022/09/zil.png",
-      "name": "Zil"
+      "name": "zil",
+      "logo": "https://car-logos.org/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/zil.png"
     }
-]
+    
+  ]
 }
