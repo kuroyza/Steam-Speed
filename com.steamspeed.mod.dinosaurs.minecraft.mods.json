@@ -1,3 +1,5 @@
 {
-    "status": true
+    "status": true,
+    "closed": false,
+    "newLink": ""
 }
