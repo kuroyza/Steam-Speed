@@ -1,5 +1,8 @@
 {
     "status": false,
-    "closed": false,
-    "newLink": ""
+    "hasNewTarget": false,
+    "targetIcon": "",
+    "targetLink": "",
+    "targetMessage": "",
+    "targetVersion": ""
 }

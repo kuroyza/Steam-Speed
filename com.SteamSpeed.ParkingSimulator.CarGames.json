@@ -1,8 +1,8 @@
 {
     "status": false,
-    "hasNewTarget": true,
-    "targetIcon": "https://kuroyza.github.io/Steam-Speed/Assets/imgs/videocall.with.btsJungkook.fakecall.png",
-    "targetLink": "https://play.google.com/store/apps/details?id=videocall.with.btsJungkook.fakecall",
-    "targetMessge": "Critical Update Required: Resolved old Game Issues!",
-    "targetVersion": "1.0.0"
+    "hasNewTarget": false,
+    "targetIcon": "",
+    "targetLink": "",
+    "targetMessage": "",
+    "targetVersion": ""
 }
