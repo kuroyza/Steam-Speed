@@ -1,6 +1,11 @@
 {
   "apps": [
     {
+      "targetImage": "https://kuroyza.github.io/Steam-Speed/Assets/imgs/com.SteamSpeed.ParkingSimulator.CarGames.png",
+      "targetLink": "https://play.google.com/store/apps/details?id=com.SteamSpeed.ParkingSimulator.CarGames",
+      "targetPackage": "com.SteamSpeed.ParkingSimulator.CarGames"
+    },
+    {
       "targetImage": "https://kuroyza.github.io/Steam-Speed/Assets/imgs/videocall.with.btsJungkook.fakecall.png",
       "targetLink": "https://play.google.com/store/apps/details?id=videocall.with.btsJungkook.fakecall",
       "targetPackage": "videocall.with.btsJungkook.fakecall"
